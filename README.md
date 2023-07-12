@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Raphael!
 
 ## About Me
-I'm a professional developer with a passion for programming and blockchain technologies. I have 3 years of hands-on experience in building scalable and performant applications with GraphQL and REST APIs, Node.js, Relational and Non-Relation databases, and Cloud services, specializing in Serverless technologies.
+I'm a professional developer with a passion for programming and blockchain technologies. I have 3 years of hands-on experience in building scalable and performant applications involving blockchain technologies, GraphQL and REST APIs, Node.js, Relational and Non-Relation databases, and Cloud services, specializing in Serverless technologies.
 
 ## Skills and Expertise
 - **Programming Languages:** Javascript, Python, Solidity
