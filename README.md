@@ -5,6 +5,7 @@ I'm a professional developer with 3 years of hands-on experience in building sca
 - **Programming Languages:** Javascript, Python, Solidity
 - **AWS Certifications:** Solutions Architect Associate, Developer Associate, SysOps Administrator Associate
 - **Blockchain Technologies:** Hyperledger Fabric, Hyperledger Besu
+- **Additional Stacks:** Docker, Kubernetes, SQL and NoSQL Databases, Bash/Shell Scripting, Testing frameworks
 
 ## Contact Me
 - **LinkedIn:** [Raphael Almeida](https://www.linkedin.com/in/raphael-almeida-59b842186/)
