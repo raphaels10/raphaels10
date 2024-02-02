@@ -1,10 +1,10 @@
 ## About Me
-I'm a professional developer with 3 years of hands-on experience in building scalable and performant applications involving private blockchain technologies, GraphQL and REST APIs, Node.js, Relational and Non-Relation databases, and Cloud services, specializing in Serverless technologies.
+I'm a professional developer with 3 years of hands-on experience in building scalable and performant applications involving Blockchain technologies, Cloud microservices, GraphQL and REST APIs, Containers, Node.js, Relational and Non-Relation databases
 
 ## Skills and Expertise
 - **Programming Languages:** Javascript, Python, Solidity
 - **AWS Certifications:** Solutions Architect Associate, Developer Associate, SysOps Administrator Associate
-- **Blockchain Technologies:** Hyperledger Fabric, Hyperledger Besu, Public Ethereum networks
+- **Blockchain Technologies:** Hyperledger Fabric, Hyperledger Besu, Ethereum and Bitcoin networks
 - **Additional Stacks:** Docker, Kubernetes, SQL and NoSQL Databases, Bash/Shell Scripting, Microservices
 
 ## Contact Me
