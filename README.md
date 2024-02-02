@@ -3,7 +3,7 @@ I'm a professional developer with 3 years of hands-on experience in building sca
 
 ## Skills and Expertise
 - **Programming Languages:** Javascript, Python, Solidity
-- **AWS Certifications:** Solutions Architect Associate, Developer Associate, SysOps Administrator Associate
+- **Certifications:** BTA Blockchain Solutions Architect, AWS Solutions Architect Associate, AWS Developer Associate, AWS SysOps Administrator Associate
 - **Blockchain Technologies:** Hyperledger Fabric, Hyperledger Besu, Ethereum and Bitcoin networks
 - **Additional Stacks:** Docker, Kubernetes, SQL and NoSQL Databases, Bash/Shell Scripting, Microservices
 
