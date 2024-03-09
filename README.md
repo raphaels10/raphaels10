@@ -1,5 +1,5 @@
 ## About Me
-I'm a professional developer with 3 years of hands-on experience in building scalable and performant applications involving Blockchain technologies, Cloud microservices, GraphQL and REST APIs, Containers, Node.js, Relational and Non-Relation databases
+I'm a professional developer with 3.5 years of hands-on experience in building scalable and performant applications involving Blockchain technologies, Cloud microservices, GraphQL and REST APIs, Containers, Node.js, Relational and Non-Relation databases
 
 ## Skills and Expertise
 - **Programming Languages:** Javascript, Python, Solidity
