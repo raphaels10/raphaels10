@@ -1,9 +1,9 @@
 ## About Me
-I'm a professional developer with 3.5 years of hands-on experience in building scalable and performant applications involving Blockchain technologies, Cloud microservices, GraphQL and REST APIs, Containers, Node.js, Relational and Non-Relation databases
+I'm a professional developer with 4 years of hands-on experience in building scalable and performant applications involving Blockchain technologies, Cloud microservices, GraphQL and REST APIs, Containers, Node.js, Relational and Non-Relation databases
 
 ## Skills and Expertise
 - **Programming Languages:** Javascript, Python, Solidity
-- **Certifications:** BTA Blockchain Solutions Architect, AWS Solutions Architect Associate, AWS Developer Associate, AWS SysOps Administrator Associate
+- **Certifications:** AWS Solutions Architect Professional, BTA Blockchain Solutions Architect, AWS Solutions Architect Associate, AWS Developer Associate, AWS SysOps Administrator Associate
 - **Blockchain Technologies:** Hyperledger Fabric, Hyperledger Besu, Ethereum and Bitcoin networks
 - **Additional Stacks:** Docker, Kubernetes, SQL and NoSQL Databases, Bash/Shell Scripting, Microservices
 
